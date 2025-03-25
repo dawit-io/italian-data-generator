@@ -28,7 +28,7 @@ public class WeightedItem<T>
     /// <summary>
     /// The item itself
     /// </summary>
-    [JsonPropertyName("item")]
+    [JsonPropertyName("value")]
     public required T Item { get; set; }
 
     /// <summary>

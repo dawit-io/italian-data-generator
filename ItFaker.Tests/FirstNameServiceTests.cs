@@ -130,17 +130,17 @@ public class FirstNameServiceTests
     {
         string maleNamesJson = @"{
                 ""items"": [
-                    { ""item"": ""mario"", ""weight"": 100 },
-                    { ""item"": ""giuseppe"", ""weight"": 80 },
-                    { ""item"": ""antonio"", ""weight"": 60 }
+                    { ""value"": ""mario"", ""weight"": 100 },
+                    { ""value"": ""giuseppe"", ""weight"": 80 },
+                    { ""value"": ""antonio"", ""weight"": 60 }
                 ]
             }";
 
         string femaleNamesJson = @"{
                 ""items"": [
-                    { ""item"": ""maria"", ""weight"": 100 },
-                    { ""item"": ""anna"", ""weight"": 80 },
-                    { ""item"": ""giovanna"", ""weight"": 60 }
+                    { ""value"": ""maria"", ""weight"": 100 },
+                    { ""value"": ""anna"", ""weight"": 80 },
+                    { ""value"": ""giovanna"", ""weight"": 60 }
                 ]
             }";
 

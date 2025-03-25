@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItFaker", "ItFaker\ItFaker.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItFaker.Tests", "ItFaker.Tests\ItFaker.Tests.csproj", "{ACAEEB4A-947D-41B2-8C77-CED131F50263}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItFaker.Demo", "ItFaker.Demo\ItFaker.Demo.csproj", "{F5205C4D-13BB-481B-9B93-2481744B2E89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{ACAEEB4A-947D-41B2-8C77-CED131F50263}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACAEEB4A-947D-41B2-8C77-CED131F50263}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACAEEB4A-947D-41B2-8C77-CED131F50263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5205C4D-13BB-481B-9B93-2481744B2E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5205C4D-13BB-481B-9B93-2481744B2E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5205C4D-13BB-481B-9B93-2481744B2E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5205C4D-13BB-481B-9B93-2481744B2E89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
